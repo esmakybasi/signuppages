@@ -1,1 +1,9 @@
-# signuppages
+<h1> SIGN UP PAGES </h1>
+
+İLK SIGN UP PAGES YAPMA DENEMESİDİR.
+
+<h2> BU SİTENİN YAPIMINDA BASİT DÜZEY HTML VE CSS BİLGİSİ KULLANILMIŞTIR. </h2>
+
+<h2> EKRAN GÖRÜNÜMÜ </h2>
+
+![](signup.jpg)
